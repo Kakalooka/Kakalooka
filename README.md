@@ -1,6 +1,6 @@
 # Łukasz Woźniakowski
 
-**Product Owner & COO | AI-enabled Products, Automation & Digital Operations**  
+**Technical Product Owner & COO | AI-enabled Products, Automation & Digital Operations**  
 Warsaw, Poland · [LinkedIn](https://www.linkedin.com/in/łukasz-woźniakowski-88176121b) · [IMDb](https://www.imdb.com/name/nm9453780/) · [Email](mailto:lwozniakowski6@wp.pl)
 
 I turn product and operational problems into working digital products and repeatable processes. My experience connects **product discovery, roadmaps and delivery** with **AI-assisted automation, data workflows, quality assurance and adoption**. I work across business, design and engineering, with clear human ownership of decisions.
